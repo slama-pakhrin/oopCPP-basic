@@ -1,0 +1,35 @@
+/***********************************************************************
+
+Workshop 8 part 2
+
+Name: Salon Lama Pakhrin
+ID : 160535217
+email: slama-pakhrin@myseneca.ca
+Date: July 22
+
+***********************************************************************/
+
+First of all, this workshop has also been very insightful
+and covered important concepts such as pure virtual functions,
+ abstract base classes, virtual functions, etc. 
+
+ Well, I got to know that abstract base class contains atleast 
+ one pure virtual function and cannot be instantiated, whereas
+ a cocrete class does not have any pure virtual functions and 
+ also can be instantiated directly making it one of main 
+ differences between abstract base class and a concrete class. 
+I also learned how to create abstract base classes. I've also 
+learned that pure virtual functions are such functions which 
+do not have any implementation in the base class and are also 
+marked with the virtual keyword followed by =0 at the end of 
+their declaration. Somehow, polymorphism is also involved in 
+process which also led me to strengthen my knowledge on such 
+important concept. Also got to know that abstract base classes 
+define the common interface and shared behavior among derived 
+classes which promotes code reusability and a class hierarchy.
+
+To sum up, this workhop covers one of the most important concepts
+which will further direct to code c++ better and efficient.
+These functionalites will improve the code functionality,
+efficiency, reusability and many more. Overall, this workshop 
+helped me enhance my knowledge further.   

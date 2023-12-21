@@ -1,0 +1,27 @@
+Name: Salon Lama Pakhrin
+ID : 160535217
+Section: ZBB
+email: slama-pakhrin@myseneca.ca
+Date: Jun 16
+
+
+As every other workshops, this one gave a very significant concepts like
+binary operators, unary operator, type conversion operator and many more. 
+Simply, as the name says type converter was used to convert an object of 
+one class type into another. This gave advantage  on the code flexibility,
+and also compatibility between classes. I also got to know about the binary
+operator and its types. Creating helper binary oeprator lead my classes to 
+interact seamlessly. Overloaded operator considered as a member.
+
+Like binary operators, unary operators could be overloaded by using
+either non-static member functions or non-member functions. So, the actual 
+merits that unary operator hold is that, it can wwork on a single object. 
+Well, integration of fundamental types and user-defined classes with the help
+of helper operator between a primitive type and a class was possible. This 
+simplified the process.
+
+To sum up everything that I have learned in this worshop, operators made it
+easier to establish a relationship or say interact between different classes 
+which are unique in nature. This operator overloading concepts have made this
+workshop pretty easier and I hope evrything comes in hand in the real world because
+this has taken a lot of time and dedication.

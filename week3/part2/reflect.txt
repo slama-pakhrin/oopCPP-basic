@@ -1,0 +1,18 @@
+I have gained a thorough understanding of various systems or process 
+through which a design/code might get simpler and efficient by weather using a 
+member functions, or defining classes, or data privacy or encapsulation or such and such. 
+
+I knew about object is a single entity that groups together related data and functnions
+that operate on a data but realized that a class is similar to an expanded structure
+and there are two kinds of class members: data members and member functions. 
+I realized significance of data privacy and it promoting a good software
+design by controlling access to internal data. Learned that data can be hidden
+within a structure by using the private access specifier. Additionally, I understood
+the idea of safe empty state which guaranteed the objects being in a usable state 
+consistently.
+
+This workshop gave me hard time in part 2 while debugging rather than coding the
+actual program. I guess this was pretty straight workshop and did gave me lots 
+of information regarding important concepts. Overall, it provided me a 
+solid foundation on member functions which I personally think is one of the 
+biggest takeaway from this week. 

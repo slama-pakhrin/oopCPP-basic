@@ -1,0 +1,35 @@
+/******************************************************************
+Name: Salon Lama Pakhrin
+ID : 160535217
+email: slama-pakhrin@myseneca.ca
+Date: July 12
+******************************************************************/
+
+Completion of this workshop gave me understandings in important 
+topics such as inheritance, member function shadowing,
+accessing shadowed member function, implementing custom input 
+output operators with classes and many more. 
+
+This workshop made us play with one of the important pillars
+of C++ which is known as inheritance where it allows the
+creation of derived classes that inherit properties and
+behaviors from a base class. I learned about inheriting 
+member variables and member functions of the base class.
+Member function shadowing which is concept that enables
+the derived class to override the behavior of the base 
+class function while maintaining access to original function
+through scoping. Usage of scope resolution operator (::) 
+can be used to access the base class member function from 
+within the derived class even when it is shadowed by a 
+function with the same name in the derived class. I got 
+familiar with the input and output stream operators where 
+I defined custome behavior when objects of those classes 
+were used with the standard input output streams. 
+
+This workshop has had a significant impact on core concepts
+like inheritance, member function shadowing, accessing those, 
+etc which is also regarded important and basic concepts that one 
+should have to develop a robust, flexible c++ system.
+Overall, I learned that these concepts which are building blocks
+of C++ applications are very fun to learn and if done correctly,
+easy too.

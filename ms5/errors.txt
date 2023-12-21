@@ -1,0 +1,19 @@
+In file included from Book.cpp:17:0:
+Utils.h:15:2: warning: "/*" within comment [-Wcomment]
+ //******************************************************************/
+ ^
+In file included from Publication.cpp:17:0:
+Utils.h:15:2: warning: "/*" within comment [-Wcomment]
+ //******************************************************************/
+ ^
+Utils.cpp:15:2: warning: "/*" within comment [-Wcomment]
+ //******************************************************************/
+ ^
+In file included from Utils.cpp:28:0:
+Utils.h:15:2: warning: "/*" within comment [-Wcomment]
+ //******************************************************************/
+ ^
+In file included from Menu.cpp:16:0:
+Utils.h:15:2: warning: "/*" within comment [-Wcomment]
+ //******************************************************************/
+ ^

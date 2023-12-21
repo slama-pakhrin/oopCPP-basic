@@ -1,0 +1,25 @@
+/***********************************************************************
+Name: Salon Lama Pakhrin
+ID : 160535217
+Section: ZBB
+email: slama-pakhrin@myseneca.ca
+Date: Jun 9
+***********************************************************************/
+
+After successfull completion of this workshop, the takeaways for me were 
+concepts such as custom construction vs default constructor, destructor/constructors for
+data loss prevention, accesing member variables and the usase of reference.
+
+I learned to initialize member variables to default values, ensuring the object
+is in  a valid state upon creation using defualt constructor which gets called
+automatically when an object is created without any arguments.
+Also, providing flexibility when constructing objects using custome constructors made
+the code much convenient. Additionally, I have learned the significance of destructors 
+in preventing memory leaks. Lastly, I learned the concept of using reference of current 
+object which is denoted by `this` keyword, we coould access member variables and member 
+functions of the object within its own scope.
+
+To sum up, this workshop has very insighful concepts and it was pretty tough for both part 1
+and part 2 to complete without any guidance. I pretty much struggled with the half assignment but 
+the snippets you provided and explained helped me to get through it. Also, the concepts that I have
+learned in this work are very crucial in upcoming works I suppose, and also for the real world scenarios.

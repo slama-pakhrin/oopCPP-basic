@@ -1,0 +1,38 @@
+/***********************************************************************
+Name: Salon Lama Pakhrin
+ID : 160535217
+Section: ZBB
+email: slama-pakhrin@myseneca.ca
+Date: July 10
+
+Workshop 6 part 2
+***********************************************************************/
+
+
+Completion of this workshop gave me understandings
+in topics such as creation of copy constructor, copy 
+assignment operators, prevention of it, overloading 
+insertion/extraction operators, ifstream and ofstream
+and many more. 
+
+I got to know how objects are copied and how to create
+a new object which is an independent copy of an existing
+object making sure the dynamically allocated resources are
+well managed. Declaring private and delete when needed or
+to enforce a single ownership. Insertion(<<) and Extraction(>>)
+operators when overloaded could be customized for the certain
+actions to take place for user-defined classes. We could define
+how objects are formatted. I used ifstream and ofstream to
+perform simple I/O operations. It enabled me to interact with
+external data sources. I applied string class for extracting
+number of characters from input and further application of
+other functions could lead to input manipulation resulting
+in flexible user inputs.  
+
+This workshop has had a significant impact on core concepts
+like copy constructors, overloading operators, string class, 
+etc which basically covered most of the important and basic
+concepts that one should have to become a good c++ programmer.
+Overall, I learned that these concepts which are building blocks
+of C++ applications are very fun to learn and if done correctly,
+easy too.
